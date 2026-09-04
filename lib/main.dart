@@ -77,7 +77,7 @@ class PortfolioHomePage extends StatefulWidget {
 class _PortfolioHomePageState extends State<PortfolioHomePage> {
   final String fullName = "Bejay C. Dayao";
   final String professorName = "Prof. Albert Q. Alforja";
-  final String examDate = "September 4, 2026";
+  final String examDate = "September 3, 2026 to September 6, 2026";
 
   final List<Map<String, dynamic>> skills = [
     {"name": "Flutter & Dart", "icon": Icons.phone_android},
