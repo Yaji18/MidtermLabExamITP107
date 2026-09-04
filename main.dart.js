@@ -67188,7 +67188,7 @@ YY(){var s="======================================="
 A.dD(s)
 A.dD("[SINGLE TAP DETECTED]")
 A.dD("Event   : Examination Date")
-A.dD("Output  : September 4, 2026")
+A.dD("Output  : September 3, 2026 to September 6, 2026")
 A.dD(s)},
 XJ(){var s="======================================="
 A.dD(s)
